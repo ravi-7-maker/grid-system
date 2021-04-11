@@ -1,0 +1,70 @@
+
+  body{
+  	font-family:'Barlow Semi Condensed', sans-serif;
+  text-align: left;
+  }
+  h5 { 
+  	font-size:1rem;
+      margin-top:4%;
+  }
+  h3 {
+  	margin:4% 0 4% 0;
+      font-size:1.1rem;
+      font-weight:bold;
+ }
+ h6 {
+ 	display: inline-block;
+ 	font-weight:lighter;
+  margin-left:6%;
+  color:hsl(0, 0%, 81%);
+ }
+ p {
+ 	font-weight:lighter;
+   color:hsl(0, 0%, 81%);
+ 
+ }
+.container { 
+	        background-color: hsl(210, 46%, 95%);
+	        
+	}
+	.content1 {
+		 color:#fff;
+		background-color:hsl(263, 55%, 52%);
+		      }
+
+                                     
+             
+                         
+       .content2  {
+       	
+       color:#fff;
+               background-color:hsl(217, 19%, 35%)
+                           }
+         .content3  {
+         	
+         
+                background-color:hsl(0, 0%, 100%);
+                             }
+         .content4  {
+         	
+         color:#fff;
+                background-color:hsl(219, 29%, 14%);
+
+                            }
+          .content5   {
+                 background-color:hsl(0, 0%, 100%);
+                                }              
+      .profile                 {
+      	 
+      margin:4% 5% 0 0 ;
+      width:10%;
+      border-radius:100%;
+      float:left;
+      
+      }
+      .d {
+      	width:80%;
+       margin: 4% auto 4% auto;
+       border-radius:5%
+      
+      }
